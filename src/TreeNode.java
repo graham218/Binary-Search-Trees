@@ -1,7 +1,4 @@
-/**
- * User created node for a binary tree
- * Created by Sadat Msi on 2/22/2017.
- */
+
 public class TreeNode {
 
     /**
