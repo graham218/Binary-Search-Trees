@@ -4,11 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
-/**
- * This Class creates a Binary Search Tree from an input file and outputs two files, one that lists the elements
- * in chronological order, and one that lists it level by level from left to right.
- * Created by Sadat Msi on 2/22/2017.
- */
+
 public class TestingBinaryTree {
 
     /**
