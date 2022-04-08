@@ -2,10 +2,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
-/**
- * User created Binary Search Tree Class. The data fields in the tree are char arrays.
- * Created by Sadat Msi on 2/22/2017.
- */
+
 public class BinaryTree {
 
     /**
