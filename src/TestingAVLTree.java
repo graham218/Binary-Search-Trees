@@ -4,9 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
-/**
- * Created by Sadat Msi on 3/1/2017.
- */
+
 public class TestingAVLTree {
 
 
